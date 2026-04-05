@@ -26,8 +26,8 @@ backend/.env
 # ── Node / React / Vite ───────────────────────────────────────────────────────
 node_modules/
 frontend/node_modules/
-frontend/package.json
-frontend/package-lock.json
+frontend/src/package.json
+frontend/src/package-lock.json
 frontend/dist/
 frontend/.vite/
 dist/
