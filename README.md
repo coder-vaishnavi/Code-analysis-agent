@@ -2,7 +2,7 @@
 
 A powerful full-stack application that leverages Artificial Intelligence to analyze code, generate flowcharts, and suggest optimizations. Built with **React** on the frontend and **Flask** on the backend, using the **Groq API** for lightning-fast LLM inference.
 
-![Screenshot Placeholder](https://via.placeholder.com/1200x600?text=AI+Code+Explainer+UI+Preview)
+![App Screenshot](./images/img1.png)
 
 ## ✨ Features
 
@@ -89,10 +89,4 @@ A powerful full-stack application that leverages Artificial Intelligence to anal
 4. Click **"Analyze Code"**.
 5. View the generated explanation, flowchart, complexity analysis, and optimized code in the results panel.
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is licensed under the MIT License.
