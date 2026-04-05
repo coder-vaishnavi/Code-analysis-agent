@@ -2,7 +2,7 @@
 
 A powerful full-stack application that leverages Artificial Intelligence to analyze code, generate flowcharts, and suggest optimizations. Built with **React** on the frontend and **Flask** on the backend, using the **Groq API** for lightning-fast LLM inference.
 
-![App Screenshot](./images/img1.png)
+![App Screenshot](images/img1.png)
 
 ## ✨ Features
 
